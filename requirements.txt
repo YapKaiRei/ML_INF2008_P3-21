@@ -1,0 +1,7 @@
+geopandas
+statsmodels
+xgboost
+shap
+nbformat
+lightgbm
+catboost
